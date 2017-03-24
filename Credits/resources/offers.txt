@@ -1,0 +1,10 @@
+nameBank		;nameCredit		;purpose	;valuta ;enrollment	;term	;maxLine	;increaseLine  ;prepayment
+MTBank  ;Simple  ;Need  ;BYR  ;Cash  ;12  ;20000000  ;yes  ;yes
+MTBank  ;AutoHalva  ;Car  ;BYR  ;Card  ;24  ;200000000  ;no  ;yes
+MTBank  ;Optimal  ;Construction  ;USD  ;Card  ;60  ;50000  ;no  ;no
+Belarusbank  ;SureStart  ;Need  ;BYR  ;Cash  ;10  ;30000000  ;no  ;no
+Belarusbank  ;Move  ;Car  ;USD  ;Card  ;18  ;12000  ;no  ;no
+Belarusbank  ;ForLife  ;Construction  ;EUR  ;Card  ;120  ;60000  ;no  ;no
+Eurotorginvestbank  ;ForDreams  ;Need  ;BYR  ;Cash  ;12  ;25000000  ;yes  ;no
+Eurotorginvestbank  ;AutoPlus  ;Car  ;EUR  ;Card  ;18  ;10000  ;no  ;yes
+Eurotorginvestbank  ;YourHome  ;Construction  ;USD  ;Card  ;96  ;80000  ;no  ;yes

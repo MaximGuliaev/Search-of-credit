@@ -1,0 +1,4 @@
+surName		;firstName	;phone  ;age  ;gender		;joined			;certification	
+Dushinskii		;Anton		;+375 25 888 00 00  ;24		;man		;2014.07.01		;senior manager
+Kozel		;Anna		;+375 25 132 33 33	;22		;woman		;2015.08.05		;manager
+Kucher		;Andrei		;+375 25 732 22 22	;28		;man		;2016.01.12		;student
